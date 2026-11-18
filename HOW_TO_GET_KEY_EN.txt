@@ -1,0 +1,62 @@
+============================================================
+   HOW TO GET YOUR ACCESS KEY (FREE)
+   Vortex Module - Altaris Software 2026
+============================================================
+
+The Vortex Module queries an artificial intelligence over the
+internet. For that it needs an access key to the service.
+Each user uses their own key, which is obtained FOR FREE.
+
+This version uses the Groq service (fast, with a free plan).
+These are the steps:
+
+------------------------------------------------------------
+STEP 1 - CREATE THE ACCOUNT
+------------------------------------------------------------
+1. On a PC or phone, go to:  https://console.groq.com
+2. Sign up with your e-mail (or with a Google account).
+   It's free and does not ask for a card.
+
+------------------------------------------------------------
+STEP 2 - GENERATE THE KEY
+------------------------------------------------------------
+3. Once inside, look for the "API Keys" section.
+4. Press the button to create a new key
+   ("Create API Key").
+5. Give it any name (for example "vortex")
+   and confirm.
+6. A long key is generated, starting with  gsk_...
+   COPY IT and save it. It is shown only once.
+
+------------------------------------------------------------
+STEP 3 - LOAD IT INTO VORTEX
+------------------------------------------------------------
+7. On the MSX, with the chat program open, type:
+
+      /api gsk_your_long_key_here
+
+   (replacing it with the key you copied)
+
+8. Done. The key is saved in the module even if you
+   turn it off. No need to load it again.
+
+------------------------------------------------------------
+NOTES
+------------------------------------------------------------
+- Groq's free plan is more than enough for personal
+  chat use.
+- If it ever answers "key error" or "limit", it may be
+  a temporary cap of the free plan: wait a minute and
+  try again.
+- Your key is personal. Do not share it.
+
+------------------------------------------------------------
+NOTE ABOUT COMMANDS
+------------------------------------------------------------
+The Vortex commands keep their original Spanish names
+(/api, /wifi, /estado, etc.), because that is what the
+firmware understands.
+
+============================================================
+Carlos de la Fuente. Altaris Software 2026
+============================================================

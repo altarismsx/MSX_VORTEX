@@ -1,0 +1,64 @@
+============================================================
+   COMO OBTER SUA CHAVE DE ACESSO (GRATIS)
+   Modulo Vortex - Altaris Software 2026
+============================================================
+
+O Modulo Vortex consulta uma inteligencia artificial pela
+internet. Para isso precisa de uma chave de acesso ao
+servico. Cada usuario usa sua propria chave, que se obtem
+DE GRACA.
+
+Esta versao usa o servico Groq (rapido e com um plano
+gratuito). Estes sao os passos:
+
+------------------------------------------------------------
+PASSO 1 - CRIAR A CONTA
+------------------------------------------------------------
+1. Em um PC ou celular, acesse:  https://console.groq.com
+2. Cadastre-se com seu e-mail (ou com uma conta Google).
+   E gratis e nao pede cartao.
+
+------------------------------------------------------------
+PASSO 2 - GERAR A CHAVE
+------------------------------------------------------------
+3. Uma vez dentro, procure a secao "API Keys"
+   (Chaves de API).
+4. Pressione o botao para criar uma nova chave
+   ("Create API Key").
+5. De um nome qualquer (por exemplo "vortex")
+   e confirme.
+6. E gerada uma chave longa que comeca com  gsk_...
+   COPIE-A e guarde. So e mostrada uma vez.
+
+------------------------------------------------------------
+PASSO 3 - CARREGA-LA NO VORTEX
+------------------------------------------------------------
+7. No MSX, com o programa de chat aberto, escreva:
+
+      /api gsk_sua_chave_longa_aqui
+
+   (substituindo pela chave que voce copiou)
+
+8. Pronto. A chave fica salva no modulo mesmo que voce
+   o desligue. Nao precisa carrega-la de novo.
+
+------------------------------------------------------------
+NOTAS
+------------------------------------------------------------
+- O plano gratuito da Groq e mais que suficiente para uso
+  pessoal de chat.
+- Se algum dia responder "erro de chave" ou "limite",
+  pode ser um teto temporario do plano gratuito: espere
+  um minuto e tente de novo.
+- Sua chave e pessoal. Nao a compartilhe.
+
+------------------------------------------------------------
+NOTA SOBRE OS COMANDOS
+------------------------------------------------------------
+Os comandos do Vortex mantem os nomes originais em espanhol
+(/api, /wifi, /estado, etc.), porque e o que o firmware
+entende.
+
+============================================================
+Carlos de la Fuente. Altaris Software 2026
+============================================================

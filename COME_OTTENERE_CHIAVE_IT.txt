@@ -1,0 +1,64 @@
+============================================================
+   COME OTTENERE LA TUA CHIAVE DI ACCESSO (GRATIS)
+   Modulo Vortex - Altaris Software 2026
+============================================================
+
+Il Modulo Vortex interroga un'intelligenza artificiale via
+internet. Per farlo ha bisogno di una chiave di accesso al
+servizio. Ogni utente usa la propria chiave, che si ottiene
+GRATIS.
+
+Questa versione usa il servizio Groq (veloce e con un piano
+gratuito). Questi sono i passi:
+
+------------------------------------------------------------
+PASSO 1 - CREARE L'ACCOUNT
+------------------------------------------------------------
+1. Su un PC o cellulare, vai a:  https://console.groq.com
+2. Registrati con la tua e-mail (o con un account Google).
+   E gratis e non chiede la carta.
+
+------------------------------------------------------------
+PASSO 2 - GENERARE LA CHIAVE
+------------------------------------------------------------
+3. Una volta dentro, cerca la sezione "API Keys"
+   (Chiavi API).
+4. Premi il pulsante per creare una nuova chiave
+   ("Create API Key").
+5. Dalle un nome qualsiasi (per esempio "vortex")
+   e conferma.
+6. Viene generata una chiave lunga che inizia con  gsk_...
+   COPIALA e salvala. Viene mostrata una sola volta.
+
+------------------------------------------------------------
+PASSO 3 - CARICARLA IN VORTEX
+------------------------------------------------------------
+7. Sull'MSX, con il programma di chat aperto, scrivi:
+
+      /api gsk_la_tua_chiave_lunga_qui
+
+   (sostituendo con la chiave che hai copiato)
+
+8. Fatto. La chiave resta salvata nel modulo anche se lo
+   spegni. Non serve ricaricarla.
+
+------------------------------------------------------------
+NOTE
+------------------------------------------------------------
+- Il piano gratuito di Groq basta e avanza per l'uso
+  personale di chat.
+- Se un giorno risponde "errore chiave" o "limite", puo
+  essere un tetto temporaneo del piano gratuito: aspetta
+  un minuto e riprova.
+- La tua chiave e personale. Non condividerla.
+
+------------------------------------------------------------
+NOTA SUI COMANDI
+------------------------------------------------------------
+I comandi di Vortex mantengono i nomi originali in spagnolo
+(/api, /wifi, /estado, ecc.), perche e cio che il firmware
+capisce.
+
+============================================================
+Carlos de la Fuente. Altaris Software 2026
+============================================================

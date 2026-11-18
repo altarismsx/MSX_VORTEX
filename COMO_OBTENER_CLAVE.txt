@@ -1,0 +1,56 @@
+============================================================
+   COMO OBTENER TU CLAVE DE ACCESO (GRATIS)
+   Modulo Vortex - Altaris Software 2026
+============================================================
+
+El Modulo Vortex consulta a una inteligencia artificial por
+internet. Para eso necesita una clave de acceso al servicio.
+Cada usuario usa su propia clave, que se obtiene GRATIS.
+
+Esta version usa el servicio Groq (rapido y con un plan
+gratuito). Estos son los pasos:
+
+------------------------------------------------------------
+PASO 1 - CREAR LA CUENTA
+------------------------------------------------------------
+1. En una PC o celular, entra a:  https://console.groq.com
+2. Registrate con tu correo (o con una cuenta de Google).
+   Es gratis y no pide tarjeta.
+
+------------------------------------------------------------
+PASO 2 - GENERAR LA CLAVE
+------------------------------------------------------------
+3. Una vez adentro, busca la seccion "API Keys"
+   (Claves de API).
+4. Presiona el boton para crear una clave nueva
+   ("Create API Key").
+5. Ponele un nombre cualquiera (por ejemplo "vortex")
+   y confirma.
+6. Se genera una clave larga que empieza con  gsk_...
+   COPIALA y guardala. Solo se muestra una vez.
+
+------------------------------------------------------------
+PASO 3 - CARGARLA EN VORTEX
+------------------------------------------------------------
+7. En el MSX, con el programa de chat abierto, escribi:
+
+      /api gsk_tu_clave_larga_aca
+
+   (reemplazando por la clave que copiaste)
+
+8. Listo. La clave queda guardada en el modulo aunque lo
+   apagues. No hay que volver a cargarla.
+
+------------------------------------------------------------
+NOTAS
+------------------------------------------------------------
+- El plan gratuito de Groq alcanza de sobra para uso
+  personal de chat.
+- Si alguna vez responde "error de clave" o "limite",
+  puede ser un tope temporal del plan gratuito: espera
+  un minuto y volve a intentar.
+- Tu clave es personal. No la compartas.
+
+============================================================
+Carlos de la Fuente. Altaris Software 2026
+============================================================
